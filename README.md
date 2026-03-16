@@ -6,5 +6,8 @@ This script was generated to support the identification of differentially expres
 
 **Experiment_1-** This analysis identifies differentially expressed miRNA using the DESeq2 package. Only miRNA that were expressed above the overall median in at least 20% of samples were evaluated for differential expression. R script and a markdown file are provided along with all necessary inputs.
 
+# Publication:
+
+**https://pmc.ncbi.nlm.nih.gov/articles/PMC10823775/**
 
 ![fig4_volcanoplot_log2FC1_labeled](https://github.com/Ragerlab/Script_for_Extracellular-Vesicles-altered-by-Per--and-Polyfluoroalkyl-Substance-Mixtures/assets/72747901/70cf27ee-285f-4cca-bdb4-8bbb315e526d)
