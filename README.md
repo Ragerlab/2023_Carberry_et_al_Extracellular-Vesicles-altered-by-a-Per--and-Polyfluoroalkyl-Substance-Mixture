@@ -1,5 +1,3 @@
-# Script_for_Extracellular-Vesicles-altered-by-Per--and-Polyfluoroalkyl-Substance-Mixtures
-
 This script was generated to support the identification of differentially expressed microRNAs in isolated extracellular vesicles (EVs) from HepG2 cells treated with a PFAS mixture in comparison to a control group contained within the manuscript:
 
 + Carberry CK, Bangma J, Koval L, Keshava D, Hartwell HJ, Sokolsky M, Fry RC, Rager JE. Extracellular Vesicles altered by a Per- and Polyfluoroalkyl Substance Mixture: In Vitro Dose-Dependent Release, Chemical Content, and MicroRNA Signatures involved in Liver Health. Toxicol Sci. 2023 Oct 18:kfad108. doi: 10.1093/toxsci/kfad108. Epub ahead of print. PMID: 37851381.
